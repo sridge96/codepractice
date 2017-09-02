@@ -1,7 +1,7 @@
 ---
 title: "DA"
-author: "Your Full Name Here"
-date: "todays date here"
+author: "Samantha Ridge"
+date: "September 2, 2017"
 output: html_document
 ---
 
